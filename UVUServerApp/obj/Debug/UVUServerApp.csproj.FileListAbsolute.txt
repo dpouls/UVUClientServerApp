@@ -1,0 +1,6 @@
+C:\Users\dalli\source\repos\UVUClientServerApp\UVUServerApp\bin\Debug\UVUServerApp.exe.config
+C:\Users\dalli\source\repos\UVUClientServerApp\UVUServerApp\bin\Debug\UVUServerApp.exe
+C:\Users\dalli\source\repos\UVUClientServerApp\UVUServerApp\bin\Debug\UVUServerApp.pdb
+C:\Users\dalli\source\repos\UVUClientServerApp\UVUServerApp\obj\Debug\UVUServerApp.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\UVUClientServerApp\UVUServerApp\obj\Debug\UVUServerApp.exe
+C:\Users\dalli\source\repos\UVUClientServerApp\UVUServerApp\obj\Debug\UVUServerApp.pdb

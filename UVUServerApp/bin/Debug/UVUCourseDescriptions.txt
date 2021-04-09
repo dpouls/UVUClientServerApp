@@ -1,0 +1,133 @@
+ACC,Accounting
+AERO,Aerospace Studies
+AIST,American Indian Studies
+AMST,American Studies
+ANTH,Anthropology
+APPR,Apprentice
+ARC,Architecture
+ART,Art
+ARTH,Art History
+ASL,American Sign Language
+ASTR,Astronomy
+AUT,Auto Mechanics
+AUTS,Autism Studies
+AVSC,Aviation Science
+BESC,Behavioral Science
+BIOL,Biology
+BIT,Building Inspection Technology
+BMED,Business/Marketing Education
+BOT,Botany
+BTEC,Biotechnology
+CA,Culinary Arts
+CAW,Cabinetry and Archit Woodwork
+CHEM,Chemistry
+CHIN,Chinese
+CHST,Chinese Studies
+CINE,Cinema Studies
+CIVE,Civil Engineering
+CJ,Criminal Justice
+CLST,Classical Studies
+CMGT,Construction Management
+CNST,Constitutional Studies
+COMM,Communication
+COMP,Computing
+CRT,Collision Repair Technology
+CS,Computer Science
+DANC,Dance
+DENT,Dental Hygiene
+DGM,Digital Media
+DMT,Diesel Mechanics
+EART,Elec Automat and Robotic Tech
+ECE,Electrical Comp Engineering
+ECFS,Edu Child and Family Studies
+ECON,Economics
+EDEC,Edu Early Childhood Education
+EDEL,Edu Elementary Education
+EDSC,Edu Secondary Education
+EDSP,Edu Special Education
+EDUC,Education
+EGDT,Engineering Graphics and Design Technology
+ENGH,English Basic Composition
+ENGL,English
+ENGR,Engineering
+ENST,Environmental Studies
+ENTR,Entrepreneurship
+ENVT,Environmental Management
+ESAF,Emerg Serv Aircraft Resc FF
+ESEC,Emergency Services Emergency Care
+ES,Emergency Services
+ESFF,Emergency Services FireFighting
+ESFO,Emergency Services Fire Officer
+ESL,English as a Second Lang
+ESMG,Emergency Services Management
+ESWF,Emergency Services Wildlnd FF
+EXSC,Exercise Science
+FAC,Facilities Management
+FAMS,Family Studies
+FAMT,Fine Arts Music and Theatre
+FIN,Finance
+FREN,French
+FSCI,Forensic Science
+GEOG,Geography
+GEO,Geology
+GER,German
+GIS,Geographic Information Systems
+GRK,Greek
+HIST,History
+HLTH,Community Health
+HM,Hospitality Management
+HONR,Honors
+HR,Human Resource Management
+HUM,Humanities
+IDST,Interdisciplinary Studies Prog
+IM,Information Management
+INFO,Information Systems and Technology
+INTS,Intelligence Studies
+IS,Integrated Studies
+IT,Information Technology
+JPNS,Japanese
+LANG,Languages
+LATN,Latin
+LEGL,Legal Studies
+MATH,Mathematics
+MAT,Mathematics Developmental
+MECH,Mechatronics Technology
+ME,Mechanical Engineering
+METO,Meteorology
+MFT,Marriage and Family Therapy
+MGMT,Business Management
+MICR,Microbiology
+MILS,Military Science
+MKTG,Marketing
+MPS,Masters of Public Service
+MUSC,Music
+NSS,National Security Studies
+NURS,Nursing
+NUTR,Nutrition
+PES,Physical Education Sports
+PETE,Physical Education Teacher Ed
+PHIL,Philosophy
+PHSC,Physical Science
+PHYS,Physics
+PJST,Peace and Justice Studies
+POLS,Political Science
+PORT,Portuguese
+PRLG,Paralegal Studies
+PST,Automotive Power Sports
+PSY,Psychology
+REC,Physical Education Recreation
+RESP,Respiratory Therapy
+RLST,Religious Studies
+RUS,Russian
+SLSS,Student Leadership and Success
+SOC,Sociology
+SOSC,Social Science
+SPAN,Spanish
+STAT,Statistics
+SUDC,Substance Use Disorder Counseling
+SURV,Land Surveying
+SW,Social Work
+TECH,Technology Management
+THEA,Theatre
+UVST,University Studies
+ZOOL,Zoology
